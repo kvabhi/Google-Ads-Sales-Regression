@@ -1,8 +1,8 @@
 # Google Ads Spend vs Sales: Simple Linear Regression
 
-Simple linear regression in Python to measure how Google Ads spend relates to sales revenue
-
 Does spending more on Google Ads go hand in hand with higher sales? This project uses simple linear regression in Python to measure that relationship for a fictional online electronics store.
+
+![Regression line](images/regression_line.png)
 
 ## Business Question
 The analytics team wants to know whether Google Ads expenditure is associated with sales revenue, to support better marketing budget decisions.
@@ -19,11 +19,6 @@ The analytics team wants to know whether Google Ads expenditure is associated wi
 2. Checked linearity between Google Ads spend and sales
 3. Built an OLS model: `Sales ~ Google_Ads_Spend`
 4. Validated the model assumptions: normality of residuals (histogram and Q-Q plot), independence and constant variance (residuals vs fitted values)
-<img width="716" height="540" alt="image" src="https://github.com/user-attachments/assets/14d940e1-9b33-490e-9a27-1c1812207f83" />
-<img width="712" height="571" alt="image" src="https://github.com/user-attachments/assets/07a430d0-ef70-4ba1-ac26-584156f815bd" />
-<img width="723" height="570" alt="image" src="https://github.com/user-attachments/assets/31f1d553-c7ab-4cda-84f8-9a2b97f4b28a" />
-<img width="712" height="542" alt="image" src="https://github.com/user-attachments/assets/d229df58-d0ce-4f3e-81ca-7e9ce287f51f" />
-
 
 ## Key Results
 | Metric | Value |
