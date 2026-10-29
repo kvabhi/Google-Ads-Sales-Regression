@@ -2,7 +2,7 @@
 
 Does spending more on Google Ads go hand in hand with higher sales? This project uses simple linear regression in Python to measure that relationship for a fictional online electronics store.
 
-![Regression line](images/regression_line.png)
+![Regression line](regression_line.png)
 
 ## Business Question
 The analytics team wants to know whether Google Ads expenditure is associated with sales revenue, to support better marketing budget decisions.
