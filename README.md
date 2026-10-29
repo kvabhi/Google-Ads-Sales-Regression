@@ -51,7 +51,6 @@ The analytics team wants to know whether Google Ads expenditure is associated wi
 Python, pandas, NumPy, Matplotlib, Seaborn, statsmodels, Jupyter Notebook
 
 ## Files
-- `google_ads_sales_regression.ipynb`: full analysis
 - `Untitled10.pdf`: PDF export of the notebook
 - `Online_Electronics_Store_Marketing_Sales.xlsx`: dataset
 - `images/`: charts used in this README
