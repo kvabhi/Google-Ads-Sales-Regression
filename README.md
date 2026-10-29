@@ -40,7 +40,7 @@ The analytics team wants to know whether Google Ads expenditure is associated wi
 ## Assumption Checks
 | Residuals histogram | Q-Q plot | Residuals vs fitted |
 |---|---|---|
-| ![Histogram](images/residuals_histogram.png) | ![Q-Q plot](qq_plot.png) | ![Residuals](images/residuals_vs_fitted.png) |
+| ![Histogram](residuals_histogram.png) | ![Q-Q plot](qq_plot.png) | ![Residuals](residuals_vs_fitted.png) |
 
 ## Next Steps
 - Multiple linear regression using YouTube and social media spend
